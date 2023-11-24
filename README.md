@@ -13,6 +13,7 @@ how to save images
 - read , download and run dockerhub2local.sh
 - chmod +x dockerhub2local.sh; ./dockerhub2local.sh
 - input image, eg :b3log/siyuan:v2.9.0
+
 how to load images
 - docker load < ***.tar
 - docker tag <id> b3log/siyuan:v2.9.0offlined  # replace <id> to your images id 
